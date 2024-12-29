@@ -56,7 +56,7 @@ function extractZipAndExecute(zipFile, extractTo)
 end
 
 -- Main execution
-local url = "https://github.com/ZypherHub/ZypherShit/raw/main/ZypherHub.zip" 
+local url = "https://github.com/ZypherHub/ZypherShit/raw/refs/heads/main/ZypherHub.zip" 
 local downloadPath = "downloaded.zip" 
 local extractPath = "extracted" 
 
